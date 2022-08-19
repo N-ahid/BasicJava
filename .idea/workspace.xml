@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="babd9018-309e-462f-be34-0f98f809460b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/Helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/NonStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/StaticMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginers_java/Student_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaArray/ArrayFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaArray/ArrrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaArray/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/BideshiDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/DeshiDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/AutoTypePromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/PatternDrawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/PrecisionLoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/TypeCasting.java" afterDir="false" />
-    </list>
+    <list default="true" id="babd9018-309e-462f-be34-0f98f809460b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,6 +112,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659689426329</updated>
     </task>
+    <task id="LOCAL-00001" summary="git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/N-ahid/BasicJava.git&#10;git push -u origin main">
+      <created>1660921164150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660921164150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +132,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/N-ahid/BasicJava.git&#10;git push -u origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/N-ahid/BasicJava.git&#10;git push -u origin main" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
