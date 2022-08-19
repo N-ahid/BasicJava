@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="babd9018-309e-462f-be34-0f98f809460b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/NonStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/StaticMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginers_java/Student_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaArray/ArrayFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaArray/ArrrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaArray/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/BideshiDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/DeshiDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/AutoTypePromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/PatternDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/PrecisionLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/TypeCasting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CviO6M6CHOElCrrkCpaqJp3hyP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TryCatch">
+    <configuration name="Cylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classObject.Cylinder" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.DogTest" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaArray.ForEachLoop" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BasicJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.TryCatch" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TryCatch" />
+        <item itemvalue="Application.DogTest" />
+        <item itemvalue="Application.Cylinder" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ForEachLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="babd9018-309e-462f-be34-0f98f809460b" name="Changes" comment="" />
+      <created>1659689426329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659689426329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/thirdChapterDataTypeOpereatorExcepsion/PatternDrawing.java</url>
+          <line>3</line>
+          <properties class="thirdChapterDataTypeOpereatorExcepsion.PatternDrawing" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
